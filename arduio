@@ -1,0 +1,5 @@
+forensic-face-reclaimer/
+├── index.html
+├── styles.css
+├── package.json
+└── vite.config.js (optional)
